@@ -1,8 +1,13 @@
 hello git  工作区->暂存区->版本库
+本地仓库为 master
+1、git remote add 别名 https://.... 
 
+2、git push https://... master
 
 git init
 
 git add  
 
 git commit -m "first commit"
+
+在远程仓库，中文出现乱码
