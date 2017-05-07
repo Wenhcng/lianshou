@@ -1,2 +1,3 @@
 db=test
 localhost=mysql;
+alikey='yyyyy';
