@@ -1,3 +1,6 @@
 db=test
 localhost=mysql;
 alikey='yyyyy';
+host=localhost;
+wechatappkey='ssssss';
+
