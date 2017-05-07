@@ -1,2 +1,3 @@
 db=test
-localhost=mysql;
+host=localhost;
+wechatappkey='ssssss';
